@@ -18,7 +18,7 @@ body{
 
 /*QUESTION SECTION*/
 .div-question{
-    height:20vh;
+    height:15vh;
     width:100%;
     display: grid;
     justify-items: center;
@@ -61,62 +61,68 @@ body{
 /*INPUTS*/
 #aTextBox1{
     font-family:  "Roboto", sans-serif;
-    font-weight: bold;
-    font-size:4vh;
+    /*font-weight: bold;*/
+    font-size:3vh;
     margin-top: 15px;
-    width: 290px;
-
+    width:250px;
 }
 
 #aTextBox2{
-    font-family:  "Roboto", sans-serif;
-    font-weight: bold;
-    font-size:4vh;
-    margin-top: 15px;
+  font-family:  "Roboto", sans-serif;
+  /*font-weight: bold;*/
+  font-size:3vh;
+  margin-top: 15px;
+  width:250px;
 }
 
 #aTextBox3{
   font-family:  "Roboto", sans-serif;
-  font-weight: bold;
-  font-size:4vh;
+  /*font-weight: bold;*/
+  font-size:3vh;
   margin-top: 15px;
+  width:250px;
 
 }
 
 #aTextBox4{
   font-family:  "Roboto", sans-serif;
-  font-weight: bold;
-  font-size:4vh;
+  /*font-weight: bold;*/
+  font-size:3vh;
   margin-top: 15px;
+  width:250px;
 }
 #aTextBox5{
   font-family:  "Roboto", sans-serif;
-  font-weight: bold;
-  font-size:4vh;
+  /*font-weight: bold;*/
+  font-size:3vh;
   margin-top: 15px;
+  width:250px;
 
 }
 
 #aTextBox6{
   font-family:  "Roboto", sans-serif;
-  font-weight: bold;
-  font-size:4vh;
+  /*font-weight: bold;*/
+  font-size:3vh;
   margin-top: 15px;
+  width:250px;
 }
 
 #aTextBox7{
-font-family:  "Roboto", sans-serif;
-font-weight: bold;
-font-size:4vh;
-margin-top: 15px;
+  font-family:  "Roboto", sans-serif;
+  /*font-weight: bold;*/
+  font-size:3vh;
+  margin-top: 15px;
+  width:250px;
 
 }
 
 #aTextBox8{
-font-family:  "Roboto", sans-serif;
-font-weight: bold;
-font-size:4vh;
-margin-top: 15px;
+  font-family:  "Roboto", sans-serif;
+  /*font-weight: bold;*/
+  font-size:3vh;
+  margin-top: 15px;
+  width:250px;
 }
 
 
@@ -302,7 +308,7 @@ margin-top: 15px;
 
 /*QUESTION SECTION*/
 .div-question{
-    height:10vh;
+    height:15vh;
     width:100%;
     display: grid;
     justify-items: center;
@@ -326,7 +332,7 @@ margin-top: 15px;
 /*ANSWER SECTION*/
 .sec-answer{
     height:10vh;
-    width:80%;
+    width:100%;
     margin-left:10%;
     display: grid;
     justify-items: center;
