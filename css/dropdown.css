@@ -14,7 +14,7 @@
   padding: 16px;
   font-size: 4vh;
   border: none;
-  width:290px;
+  width:280px;
 
 }
 .menuList {
@@ -22,9 +22,9 @@
   position: absolute;
  /* background-color: #ff2c2c;*/
   color: white;
-  width:290px;
+  width:280px;
   z-index: 1;
-  left:40px;
+  left:30px;
   animation: fadeIn-m 6s;
 }
 @keyframes fadeIn-m {
