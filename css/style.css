@@ -30,7 +30,7 @@ body{
 .question-sentence{
     font-family:  "Roboto", sans-serif;
     font-weight: bolder;
-    font-size:3vh;
+    font-size:4vh;
   /*  height:10vh;
   background-color:aliceblue;*/
    color:#fff;
@@ -101,7 +101,7 @@ body{
 #aTextBox7{
 font-family:  "Roboto", sans-serif;
 font-weight: bold;
-font-size:4vw;
+font-size:4vh;
 margin-top: 15px;
 
 }
@@ -109,7 +109,7 @@ margin-top: 15px;
 #aTextBox8{
 font-family:  "Roboto", sans-serif;
 font-weight: bold;
-font-size:4vw;
+font-size:4vh;
 margin-top: 15px;
 }
 
