@@ -30,7 +30,7 @@ body{
 .question-sentence{
     font-family:  "Roboto", sans-serif;
     font-weight: bolder;
-    font-size:3vw;
+    font-size:3vh;
   /*  height:10vh;
   background-color:aliceblue;*/
    color:#fff;
@@ -57,7 +57,7 @@ body{
 #aTextBox1{
     font-family:  "Roboto", sans-serif;
     font-weight: bold;
-    font-size:4vw;
+    font-size:4vh;
     margin-top: 15px;
 
 }
@@ -65,14 +65,14 @@ body{
 #aTextBox2{
     font-family:  "Roboto", sans-serif;
     font-weight: bold;
-    font-size:4vw;
+    font-size:4vh;
     margin-top: 15px;
 }
 
 #aTextBox3{
   font-family:  "Roboto", sans-serif;
   font-weight: bold;
-  font-size:4vw;
+  font-size:4vh;
   margin-top: 15px;
 
 }
@@ -80,13 +80,13 @@ body{
 #aTextBox4{
   font-family:  "Roboto", sans-serif;
   font-weight: bold;
-  font-size:4vw;
+  font-size:4vh
   margin-top: 15px;
 }
 #aTextBox5{
   font-family:  "Roboto", sans-serif;
   font-weight: bold;
-  font-size:4vw;
+  font-size:4vh;
   margin-top: 15px;
 
 }
@@ -94,7 +94,7 @@ body{
 #aTextBox6{
   font-family:  "Roboto", sans-serif;
   font-weight: bold;
-  font-size:4vw;
+  font-size:4vh;
   margin-top: 15px;
 }
 
